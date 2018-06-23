@@ -1,16 +1,12 @@
-# Deep RL Quadcopter Controller
-
-*Teach a Quadcopter How to Fly!*
-
-In this project, you will design an agent to fly a quadcopter, and then train it using a reinforcement learning algorithm of your choice! 
+# Quadcopter flying using RL
 
 ## Project Instructions
 
 1. Clone the repository and navigate to the downloaded folder.
 
 ```
-git clone https://github.com/udacity/RL-Quadcopter-2.git
-cd RL-Quadcopter-2
+git clone https://github.com/Kcsh/Quadcopter-learned-flying.git
+cd /Quadcopter-learned-flying
 ```
 
 2. Create and activate a new environment.
@@ -32,4 +28,3 @@ jupyter notebook Quadcopter_Project.ipynb
 
 5. Before running code, change the kernel to match the `quadcop` environment by using the drop-down menu (**Kernel > Change kernel > quadcop**). Then, follow the instructions in the notebook.
 
-6. You will likely need to install more pip packages to complete this project.  Please curate the list of packages needed to run your project in the `requirements.txt` file in the repository.
